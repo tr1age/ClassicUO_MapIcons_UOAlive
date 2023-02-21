@@ -1,0 +1,213 @@
+3
++TERRAIN: 2500 42 0 Crescent Mountain 
++TERRAIN: 2500 42 1 Crescent Mountain 
++TERRAIN: 1970 80 0 Ice Mountain 
++TERRAIN: 1970 80 1 Ice Mountain 
++TERRAIN: 1188 136 0 Candelabra Point 
++TERRAIN: 1188 136 1 Candelabra Point 
++TERRAIN: 2560 142 0 High Steppes 
++TERRAIN: 2560 142 1 High Steppes 
++SCENIC: 1184 206 0 Flower Grove 
++SCENIC: 1184 206 1 Flower Grove 
++TERRAIN: 1942 264 0 Prison Peak 
++TERRAIN: 1942 264 1 Prison Peak 
++BODYOFWATER: 2340 322 0 Lost Hope Bay 
++BODYOFWATER: 2340 322 1 Lost Hope Bay 
++ISLAND: 1386 362 0 Three Tile Island 
++ISLAND: 1386 362 1 Three Tile Island 
++TERRAIN: 4024 364 0 Frozen Mountains 
++TERRAIN: 4024 364 1 Frozen Mountains 
++ISLAND: 1504 365 0 Dot Island 
++ISLAND: 1504 365 1 Dot Island 
++TERRAIN: 3116 440 0 Windemere Wood 
++TERRAIN: 3116 440 1 Windemere Wood 
++TERRAIN: 2576 448 0 Mount Kendall 
++TERRAIN: 2576 448 1 Mount Kendall 
++BODYOFWATER: 1496 472 0 Arrow's Point Bay 
++BODYOFWATER: 1496 472 1 Arrow's Point Bay 
++ISLAND: 4112 532 0 Dagger Isle 
++ISLAND: 4112 532 1 Dagger Isle 
++SCENIC: 1317 535 0 Waterfall 
++SCENIC: 1317 535 1 Waterfall 
++LANDMARK: 3342 576 0 Trappers' Huts 
++LANDMARK: 3342 576 1 Trappers' Huts 
++LANDMARK: 1015 704 0 Yew Crypts 
++LANDMARK: 1015 704 1 Yew Crypts 
++LANDMARK: 957 708 0 Yew Crypts 
++LANDMARK: 957 708 1 Yew Crypts 
++LANDMARK: 1820 722 0 Guard Outpost 
++LANDMARK: 1820 722 1 Guard Outpost 
++LANDMARK: 965 762 0 Yew Crypts 
++LANDMARK: 965 762 1 Yew Crypts 
++LANDMARK: 2059 804 0 Stonegate 
++LANDMARK: 2059 804 1 Stonegate 
++LANDMARK: 1015 823 0 Yew Crypts 
++LANDMARK: 1015 823 1 Yew Crypts 
++TERRAIN: 2160 834 0 Bloody Plains 
++TERRAIN: 2160 834 1 Bloody Plains 
++TERRAIN: 1928 864 0 Desert of Compassion 
++TERRAIN: 1928 864 1 Desert of Compassion 
++TERRAIN: 2469 879 0 Mountains of Avarice 
++TERRAIN: 2469 879 1 Mountains of Avarice 
++TERRAIN: 900 914 0 Deep Forest 
++TERRAIN: 900 914 1 Deep Forest 
++LANDMARK: 2273 927 0 Guard Outpost 
++LANDMARK: 2273 927 1 Guard Outpost 
+-POINTOFINTEREST: 303 947 0 Hidden Cave? (Click Ground) 
+-POINTOFINTEREST: 303 947 1 Hidden Cave? (Click Ground) 
++TERRAIN: 1536 992 0 Valley of Chaos 
++TERRAIN: 1536 992 1 Valley of Chaos 
++TERRAIN: 2034 1004 0 Bog of Desolation 
++TERRAIN: 2034 1004 1 Bog of Desolation 
++TERRAIN: 1556 1052 0 Forest of Samlethe 
++TERRAIN: 1556 1052 1 Forest of Samlethe 
++BODYOFWATER: 2154 1054 0 Loch Lake 
++BODYOFWATER: 2154 1054 1 Loch Lake 
++LANDMARK: 1039 1080 0 Guard Outpost 
++LANDMARK: 1039 1080 1 Guard Outpost 
++RUINS: 2582 1117 0 Ruins 
++RUINS: 2582 1117 1 Ruins 
++LANDMARK: 1938 1147 0 Guard Outpost 
++LANDMARK: 1938 1147 1 Guard Outpost 
++ISLAND: 4524 1216 0 Verity Isle 
++ISLAND: 4524 1216 1 Verity Isle 
++TERRAIN: 1176 1228 0 Serpent's Spine Mountains 
++TERRAIN: 1176 1228 1 Serpent's Spine Mountains 
++LANDMARK: 750 1308 0 Guard Outpost 
++LANDMARK: 750 1308 1 Guard Outpost 
++RUINS: 569 1310 0 Ruins 
++RUINS: 569 1310 1 Ruins 
+-POINTOFINTEREST: 3728 1360 0 Chessboard 
+-POINTOFINTEREST: 3728 1360 1 Chessboard 
++TERRAIN: 1028 1368 0 Rat Valley 
++TERRAIN: 1028 1368 1 Rat Valley 
++RUINS: 758 1403 0 Ruins 
++RUINS: 758 1403 1 Ruins 
++TERRAIN: 805 1463 0 Grove of Love 
++TERRAIN: 805 1463 1 Grove of Love 
++LANDMARK: 720 1480 0 Guard Outpost 
++LANDMARK: 720 1480 1 Guard Outpost 
++TERRAIN: 568 1540 0 Peaks of Disgrace 
++TERRAIN: 568 1540 1 Peaks of Disgrace 
++LANDMARK: 850 1546 0 Grizelda's Home 
++LANDMARK: 850 1546 1 Grizelda's Home 
++LANDMARK: 572 1636 0 Waterfall 
++LANDMARK: 572 1636 1 Waterfall 
++RUINS: 475 1655 0 Ruins 
++RUINS: 475 1655 1 Ruins 
++TERRAIN: 1250 1734 0 Crimson Plains 
++TERRAIN: 1250 1734 1 Crimson Plains 
++LANDMARK: 960 1762 0 Guard Outpost 
++LANDMARK: 960 1762 1 Guard Outpost 
++BODYOFWATER: 1584 1830 0 Brittany Bay 
++BODYOFWATER: 1584 1830 1 Brittany Bay 
++LANDMARK: 1012 1937 0 Britain/Yew/Skara Brae Crossroads 
++LANDMARK: 1012 1937 1 Britain/Yew/Skara Brae Crossroads 
++ISLAND: 2049 1952 0 Ocarina Isle 
++ISLAND: 2049 1952 1 Ocarina Isle 
++ISLAND: 1704 1996 0 Eiffel Island 
++ISLAND: 1704 1996 1 Eiffel Island 
++ISLAND: 2188 2000 0 Blanche Island 
++ISLAND: 2188 2000 1 Blanche Island 
++ISLAND: 452 2060 0 Iver's Rounding 
++ISLAND: 452 2060 1 Iver's Rounding 
++ISLAND: 1916 2092 0 Marble Island 
++ISLAND: 1916 2092 1 Marble Island 
++LANDMARK: 1415 2105 0 Guard Outpost 
++LANDMARK: 1415 2105 1 Guard Outpost 
++ISLAND: 2100 2108 0 Horseshoe Island 
++ISLAND: 2100 2108 1 Horseshoe Island 
++ISLAND: 2953 2168 0 Skull Island 
++ISLAND: 2953 2168 1 Skull Island 
++SCENIC: 784 2242 0 Ranger Huts 
++SCENIC: 784 2242 1 Ranger Huts 
++TERRAIN: 1372 2294 0 Spiritwood 
++TERRAIN: 1372 2294 1 Spiritwood 
++TERRAIN: 1948 2320 0 Fens of the Dead 
++TERRAIN: 1948 2320 1 Fens of the Dead 
++RUINS: 1824 2415 0 Ruins 
++RUINS: 1824 2415 1 Ruins 
++LANDMARK: 5855 2469 0 Wyvern Isle 
++LANDMARK: 5855 2469 1 Wyvern Isle 
++LANDMARK: 1680 2471 0 Guard Outpost 
++LANDMARK: 1680 2471 1 Guard Outpost 
++TERRAIN: 5706 2534 0 Reb'Gab Haras 
++TERRAIN: 5706 2534 1 Reb'Gab Haras 
++TERRAIN: 5164 2606 0 Wyvern Point 
++TERRAIN: 5164 2606 1 Wyvern Point 
++TERRAIN: 1336 2636 0 Dragonhame Mountain 
++TERRAIN: 1336 2636 1 Dragonhame Mountain 
++BRIDGE: 1009 2666 0 Bridge of the Two Kings 
++BRIDGE: 1009 2666 1 Bridge of the Two Kings 
++LANDMARK: 1682 2675 0 Guard Outpost 
++LANDMARK: 1682 2675 1 Guard Outpost 
++BODYOFWATER: 3564 2675 0 Salt Lake 
++BODYOFWATER: 3564 2675 1 Salt Lake 
++ISLAND: 2003 2746 0 Paladin Isle 
++ISLAND: 2003 2746 1 Paladin Isle 
++LANDMARK: 1152 2958 0 Lizardman Fort 
++LANDMARK: 1152 2958 1 Lizardman Fort 
++TERRAIN: 1673 2968 0 Hidden Valley 
++TERRAIN: 1673 2968 1 Hidden Valley 
++TERRAIN: 1528 3068 0 Southern Jungle 
++TERRAIN: 1528 3068 1 Southern Jungle 
++RUINS: 4459 3106 0 Ruins 
++RUINS: 4459 3106 1 Ruins 
++RUINS: 1055 3137 0 Ruins 
++RUINS: 1055 3137 1 Ruins 
++ISLAND: 1081 3155 0 Dragon Isle 
++ISLAND: 1081 3155 1 Dragon Isle 
++TERRAIN: 4540 3192 0 Solitary Mountain 
++TERRAIN: 4540 3192 1 Solitary Mountain 
++BODYOFWATER: 1728 3200 0 Hart Lake 
++BODYOFWATER: 1728 3200 1 Hart Lake 
++RUINS: 1846 3203 0 Ruins 
++RUINS: 1846 3203 1 Ruins 
++TERRAIN: 1566 3212 0 Northpeak 
++TERRAIN: 1566 3212 1 Northpeak 
++RUINS: 5388 3230 0 Haunted Ruins 
++RUINS: 5388 3230 1 Haunted Ruins 
++TERRAIN: 1616 3296 0 Southpeak 
++TERRAIN: 1616 3296 1 Southpeak 
++TERRAIN: 1848 3332 0 Southern Jungle 
++TERRAIN: 1848 3332 1 Southern Jungle 
++RUINS: 2178 3367 0 Ruins 
++RUINS: 2178 3367 1 Ruins 
++RUINS: 1608 3372 0 Ruins 
++RUINS: 1608 3372 1 Ruins 
++SCENIC: 1736 3378 0 Palm Grove 
++SCENIC: 1736 3378 1 Palm Grove 
++RUINS: 2023 3382 0 Ruins 
++RUINS: 2023 3382 1 Ruins 
++RUINS: 1928 3420 0 Ruins 
++RUINS: 1928 3420 1 Ruins 
++ISLAND: 2355 3431 0 Bald Island 
++ISLAND: 2355 3431 1 Bald Island 
++RUINS: 1747 3439 0 Ruins 
++RUINS: 1747 3439 1 Ruins 
++ISLAND: 4618 3458 0 Isle of the Avatar 
++ISLAND: 4618 3458 1 Isle of the Avatar 
++ISLAND: 1140 3524 0 North Jhelom Island 
++ISLAND: 1140 3524 1 North Jhelom Island 
++ISLAND: 2962 3537 0 Isle of Deeds 
++ISLAND: 2962 3537 1 Isle of Deeds 
++LANDMARK: 4593 3565 0 Fire Temple 
++LANDMARK: 4593 3565 1 Fire Temple 
++ISLAND: 2461 3583 0 Temple Island 
++ISLAND: 2461 3583 1 Temple Island 
++TERRAIN: 2130 3616 0 Cape of Heroes 
++TERRAIN: 2130 3616 1 Cape of Heroes 
++TERRAIN: 4652 3656 0 Rock Ridge 
++TERRAIN: 4652 3656 1 Rock Ridge 
++ISLAND: 1432 3670 0 Valorian Isles 
++ISLAND: 1432 3670 1 Valorian Isles 
++TERRAIN: 4484 3732 0 Lava Pool 
++TERRAIN: 4484 3732 1 Lava Pool 
++TERRAIN: 4740 3736 0 Codex Mountain 
++TERRAIN: 4740 3736 1 Codex Mountain 
++ISLAND: 2145 3961 0 Amoeba Island 
++ISLAND: 2145 3961 1 Amoeba Island 
++ISLAND: 2481 3967 0 Valor Island 
++ISLAND: 2481 3967 1 Valor Island 
++ISLAND: 1440 3998 0 South Jhelom Island 
++ISLAND: 1440 3998 1 South Jhelom Island 

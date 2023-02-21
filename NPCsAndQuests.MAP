@@ -1,0 +1,214 @@
+3
+-NPC: 3744 2584 1 NPC: Archery Trainers 
+-NPC: 3492 2577 1 NPC: Sarsmea Smythe - (Focus) 
+-NPC: 3525 2556 1 NPC: Tyl Ariadne - (Parrying) 
+-NPC: 3535 2544 1 NPC: Jockles - (Swordsmanship) 
+-NPC: 3535 2537 1 NPC: Alden Armstrong - (Tactics) 
+-NPC: 3535 2534 1 NPC: Recaro - (Fencing) 
+-NPC: 3535 2531 1 NPC: Robyn - (Archery) 
+-NPC: 3531 2531 1 NPC: Churchill - (Mace Fighting) 
+-NPC: 3531 2520 1 NPC: Dimethro - (Wrestling) 
+-NPC: 3531 2516 1 NPC: Aelorn - (Chivalry) (1st Floor) 
+-NPC: 3526 2578 1 NPC: Helene - (Animal Taming) 
+-NPC: 3467 2559 1 NPC: Avicenna - (Healing) 
+-NPC: 3459 2550 1 NPC: Andreas Vesalius - (Anatomy) 
+-NPC: 3471 2542 1 NPC: George Hephaestus - (Blacksmithing) 
+-NPC: 3456 2528 1 NPC: Amelia Youngstone - (Tinkering) 
+-NPC: 3429 2518 1 NPC: Walker - (Tracking) 
+-NPC: 3423 2521 1 NPC: Ryuichi - (Ninjitsu) 
+-NPC: 3423 2514 1 NPC: Jun - (Stealth) 
+-NPC: 3419 2514 1 NPC: Chiyo - (Hiding) 
+-NPC: 3485 2489 1 NPC: Kaelynna - (Magery) 
+-NPC: 3465 2489 1 NPC: Jillian - (Inscription) (1st Floor) 
+-NPC: 3478 2489 1 NPC: Alefian - (Resisting Spells) (1st Floor) 
+-NPC: 3485 2493 1 NPC: Mithneral - (Evaluating Intelligence) (1st Floor) 
+-NPC: 3474 2489 1 NPC: Gustar - (Meditation) (Rooftop) 
+-NPC: 3555 2462 1 NPC: Mulcivikh - (Necromancy) 
+-NPC: 3547 2462 1 NPC: Morgana - (Spirit Speak) 
+-NPC: 3494 2414 1 NPC: Hamato - (Bushido) 
+-NPC: 3504 2741 1 NPC: Jacob Waltzt - (Mining) 
+-NPC: 424 195 3 NPC: Victoria 
+-NPC: 678 1277 4 NPC: Ihara Soko, Imperial Minister of Trade 
+-NPC: 5592 3020 0 NPC: Lucius 
+-NPC: 5592 3020 1 NPC: Lucius 
+-NPC: 3792 1105 0 NPC: Lefty the Ticket Seller
+-NPC: 3792 1105 1 NPC: Lefty the Ticker Seller
+-NPC: 561 1650 0 NPC: Jamal the Fisherman
+-NPC: 561 1650 1 NPC: Jamal the Fisherman
+-NPC: 2102 1374 3 NPC: Aernya 
+-NPC: 1422 1619 1 NPC: Sarakki the Notary
+-NPC: 7062 352 1 NPC: Aeluva (Unlock Spellweaving) 
+-NPC: 7062 352 0 NPC: Aeluva (Unlock Spellweaving) 
+-NPC: 7064 355 1 NPC: Synaeva (Spellweaving: Summon Fey) 
+-NPC: 7064 355 0 NPC: Synaeva (Spellweaving: Summon Fey) 
+-NPC: 4310 953 0 NPC: Darius (Switch to Elf) 
+-NPC: 4310 953 1 NPC: Darius (Switch to Elf) 
+-NPC: 2958 3472 0 NPC: Nedrick (Switch to Human) 
+-NPC: 2958 3472 1 NPC: Nedrick (Switch to Human) 
+-NPC: 2254 1209 0 NPC: Vela the Sorceress (Voidpool Trade) 
+-NPC: 2254 1209 1 NPC: Vela the Sorceress (Voidpool Trade) 
+-NPC: 1436 1761 0 NPC: Trade Minister 
+-NPC: 1377 3879 0 NPC: Trade Minister 
+-NPC: 2499 397 0 NPC: Trade Minister 
+-NPC: 4415 1044 0 NPC: Trade Minister 
+-NPC: 3677 2253 0 NPC: Trade Minister 
+-NPC: 645 2227 0 NPC: Trade Minister 
+-NPC: 2061 2854 0 NPC: Trade Minister 
+-NPC: 3003 834 0 NPC: Trade Minister 
+-NPC: 621 1041 0 NPC: Trade Minister 
+-NPC: 1436 1761 1 NPC: Trade Minister 
+-NPC: 1377 3879 1 NPC: Trade Minister 
+-NPC: 2499 397 1 NPC: Trade Minister 
+-NPC: 4415 1044 1 NPC: Trade Minister 
+-NPC: 3677 2253 1 NPC: Trade Minister 
+-NPC: 645 2227 1 NPC: Trade Minister 
+-NPC: 2061 2854 1 NPC: Trade Minister 
+-NPC: 3003 834 1 NPC: Trade Minister 
+-NPC: 621 1041 1 NPC: Trade Minister 
+-NPC: 262 1744 5 NPC: Sir Geoffrey 
+-NPC: 684 1868 5 NPC: Hawkwind 
+-NPC: 647 1706 5 NPC: Barako High Chief 
+-NPC: 720 2094 5 NPC: Jukari High Chief 
+-NPC: 364 1850 5 NPC: The Kuraku High Chief 
+-NPC: 416 1577 5 NPC: Urali High Chieftess 
+-NPC: 556 1428 5 NPC: Sakkhra High Chieftess 
+-NPC: 1506 1450 1 Book (Detect Hidden) 1st Floor 
+-NPC: 1513 1450 1 Book (Detect Hidden) 1st Floor 
+-NPC: 1492 1441 1 Book (Detect Hidden) 1st Floor 
+-NPC: 1505 1474 1 Book (Detect Hidden) 2nd Floor 
+-NPC: 1549 1431 1 Book (Detect Hidden) 1st Floor 
+-NPC: 1553 1431 1 Book (Detect Hidden) 2nd Floor 
+-NPC: 1541 1361 1 Book (Detect Hidden) 
+-NPC: 1505 1465 1 Book (Detect Hidden) 2nd Floor 
+-NPC: 2747 882 0 Damaged Headstone (Forensic) 
+-NPC: 2762 848 0 Hidden Door (Detect Hidden + Forensic) (Say: 'Moriens') 
+-NPC: 6154 2898 0 Exit to Yew Cemetery 
+-NPC: 6167 2896 0 Mysterious Book (Forensic + Inscription) 
+-NPC: 6163 2885 0 Dust (Forensic) 
+-NPC: 4545 1316 0 Damaged Headstone (Forensic) 
+-NPC: 4550 1306 0 Hidden Door (Detect Hidden + Forensic) (Say: 'Carthax') 
+-NPC: 6198 2893 0 Exit to Moonglow Cemetery 
+-NPC: 6207 2884 0 Mysterious Book (Forensic + Inscription) 
+-NPC: 6208 2885 0 Dust (Forensic) 
+-NPC: 723 1104 0 Damaged Headstone (Forensic) 
+-NPC: 712 1104 0 Hidden Door (Detect Hidden + Forensic) (Say: 'Tenebrae') 
+-NPC: 6294 2891 0 Exit to Yew Cemetery 
+-NPC: 6294 2887 0 Mysterious Book (Forensic + Inscription) 
+-NPC: 6291 2875 0 Dust (Forensic) 
+-NPC: 1378 1445 0 Damaged Headstone (Forensic) 
+-NPC: 1369 1465 0 Hidden Door (Detect Hidden + Forensic) (Say: 'Boreas') 
+-NPC: 6242 2892 0 Exit to Britain Cemetery 
+-NPC: 6240 2885 0 Mysterious Book (Forensic + Inscription) 
+-NPC: 6256 2889 0 Dust (Forensic) 
+-NPC: 4325 949 0 NPC: Cryptologist Jonah 
+-NPC: 5808 3270 0 NPC: Sage Humbolt the Ghost (Spirit Speak) 
+-NPC: 1384 1446 0 NPC: Grave Digger 
+-NPC: 1675 1594 0 NPC: Chief Inspector Jasper 
+-NPC: 2719 2188 0 NPC: Ronald The Pirate (Doubloons Trade) 
+-NPC: 2747 882 1 Damaged Headstone (Forensic) 
+-NPC: 2762 848 1 Hidden Door (Detect Hidden - Forensic)(Say: 'Moriens') 
+-NPC: 6154 2898 1 Exit to Yew Cemetery 
+-NPC: 6167 2896 1 Mysterious Book (Forensic - Inscription) 
+-NPC: 6163 2885 1 Dust (Forensic) 
+-NPC: 4545 1316 1 Damaged Headstone(Forensic) 
+-NPC: 4550 1306 1 Hidden Door (Detect Hidden - Forensic)(Say: 'Carthax') 
+-NPC: 6198 2893 1 Exit to Moonglow Cemetery 
+-NPC: 6207 2884 1 Mysterious Book (Forensic - Inscription) 
+-NPC: 6208 2885 1 Dust (Forensic) 
+-NPC: 723 1104 1 Damaged Headstone(Forensic) 
+-NPC: 712 1104 1 Hidden Door (Detect Hidden - Forensic)(Say: 'Tenebrae') 
+-NPC: 6294 2891 1 Exit to Yew Cemetery 
+-NPC: 6294 2887 1 Mysterious Book (Forensic - Inscription) 
+-NPC: 6291 2875 1 Dust (Forensic) 
+-NPC: 1378 1445 1 Damaged Headstone (Forensic) 
+-NPC: 1369 1465 1 Hidden Door (Detect Hidden - Forensic)(Say: 'Boreas') 
+-NPC: 6242 2892 1 Exit to Britain Cemetery 
+-NPC: 6240 2885 1 Mysterious Book (Forensic - Inscription) 
+-NPC: 6256 2889 1 Dust (Forensic) 
+-NPC: 4325 949 1 NPC: Cryptologist Jonah 
+-NPC: 5808 3270 1 NPC: Sage Humbolt the Ghost (Spirit Speak) 
+-NPC: 1382 1447 1 NPC: Grave Digger 
+-NPC: 1675 1594 1 NPC: Chief Inspector Jasper 
+-NPC: 2719 2188 1 NPC: Ronald The Pirate (Doubloons Trade) 
+-NPC: 6256 102 0 NPC: Tiana the Guard 
+-NPC: 6256 102 1 NPC: Tiana the Guard 
+-NPC: 6277 104 0 NPC: Dallid the Cook 
+-NPC: 6277 104 1 NPC: Dallid the Cook 
+-NPC: 6255 107 0 NPC: Elder Onallan the Wise 
+-NPC: 6255 107 1 NPC: Elder Onallan the Wise 
+-NPC: 6281 122 0 NPC: Tallinin the Cloth Weaver 
+-NPC: 6281 122 1 NPC: Tallinin the Cloth Weaver 
+-NPC: 6282 117 0 NPC: Danoel the Metal Weaver 
+-NPC: 6282 117 1 NPC: Danoel the Metal Weaver 
+-NPC: 6285 114 0 NPC: Beotham the Bowcrafter 
+-NPC: 6285 114 1 NPC: Beotham the Bowcrafter 
+-NPC: 6243 111 0 NPC: Lorekeeper Rollarn  
+-NPC: 6243 111 1 NPC: Lorekeeper Rollarn 
+-NPC: 6251 126 0 NPC: Lorekeeper Oolua  
+-NPC: 6251 126 1 NPC: Lorekeeper Oolua  
+-NPC: 6258 126 0 NPC: Yellienir the Bark Weaver 
+-NPC: 6258 126 1 NPC: Yellienir the Bark Weaver 
+-NPC: 6253 112 1 NPC: Koole (Unlock Spellweaving) 
+-NPC: 6253 112 0 NPC: Koole (Unlock Spellweaving) 
+-NPC: 6266 127 0 NPC: Elder Brae the Wise (Spellweaving: Summon Fiend) 
+-NPC: 6266 127 1 NPC: Elder Brae the Wise (Spellweaving: Summon Fiend) 
+-NPC: 6274 130 0 NPC: Canir the Thaumaturgist 
+-NPC: 6274 130 1 NPC: Canir the Thaumaturgist 
+-NPC: 6575 181 0 NPC: Ramon the Vagabond 
+-NPC: 6575 181 1 NPC: Ramon the Vagabond 
+-NPC: 6575 186 0 NPC: Torrance the Iron Worker 
+-NPC: 6575 186 1 NPC: Torrance the Iron Worker 
+-NPC: 425 196 3 NPC: Victoria the Necromancer 
+-NPC: 6294 471 0 NPC: Kodar the Lost Villager 
+-NPC: 6294 471 1 NPC: Kodar the Lost Villager 
+-NPC: 995 516 3 NPC: Gorrow the Mayor 
+-NPC: 1150 964 5 NPC: Neville Brightwhistle 
+-NPC: 529 993 0 NPC: Winn the Elven Emissary 
+-NPC: 529 993 1 NPC: Winn the Elven Emissary 
+-NPC: 1089 1128 5 NPC: Gretchen the Alchemist 
+-NPC: 1104 1128 5 NPC: Elder Dugan the Prospector 
+-NPC: 1121 1132 5 NPC: Fiddling Tobin the Tinkerer 
+-NPC: 1135 1132 5 NPC: Quartermaster Flint 
+-NPC: 760 1200 4 NPC: Ansella Gryen 
+-NPC: 2157 1206 2 NPC: Lady Lissith 
+-NPC: 2131 1208 2 NPC: Guile 
+-NPC: 2177 1210 2 NPC: Lady Sabrix 
+-NPC: 1453 1548 1 NPC: Francis the Chapman 
+-NPC: 1443 1552 0 NPC: Gabriel Piete the Renowned Minstrel 
+-NPC: 1443 1552 1 NPC: Gabriel Piete the Renowned Minstrel 
+-NPC: 1318 1604 1 NPC: Pepta the Royal Tastetester 
+-NPC: 1410 1608 1 NPC: Verity the Librarian 
+-NPC: 1367 1618 1 NPC: Regina the Noble 
+-NPC: 1448 1665 1 NPC: Emilio the Tortured Artist 
+-NPC: 1496 1683 1 NPC: Maribel the Waitress (Wanders) 
+-NPC: 1483 1700 1 NPC: Evan the Beggar 
+-NPC: 592 1745 0 NPC: Strongroot 
+-NPC: 592 1745 1 NPC: Strongroot 
+-NPC: 5595 3021 0 NPC: Lucius the Adventurer 
+-NPC: 5595 3021 1 NPC: Lucius the Adventurer 
+-NPC: 802 3395 5 NPC: Laifem the Weaver 
+-NPC: 660 3403 5 NPC: Axem the Curator 
+-NPC: 807 3425 5 NPC: Agralem the Bladeweaver 
+-NPC: 799 3428 5 NPC: Aurvidlem the Artificer 
+-NPC: 710 3429 5 NPC: Percolem the Hunter 
+-NPC: 793 3434 5 NPC: Beninort the Artificer 
+-NPC: 799 3434 5 NPC: Ansikart the Artificer 
+-NPC: 816 3438 5 NPC: Aliabeth the Tinker 
+-NPC: 771 3475 5 NPC: Thepem the Apprentice 
+-NPC: 771 3477 5 NPC: Zosilem the Alchemist 
+-NPC: 781 3481 5 NPC: Ortlem the Mystic 
+-NPC: 836 3508 5 NPC: Exwegem the Noble 
+-NPC: 1349 3755 0 NPC: Iosep the Exporter 
+-NPC: 1349 3755 1 NPC: Iosep the Exporter 
+-NPC: 1015 3936 5 NPC: Naxatilor the Seer 
+-NPC: 946 3867 5 NPC: Farmer Nash 
+-NPC: 1045 3867 5 NPC: Farmer Krill 
+-NPC: 720 2094 5 NPC: Vek the Jukari High Chief 
+-NPC: 364 1848 5 NPC: Ogger the Kurak High Chief 
+-NPC: 651 1713 5 NPC: Ogger the Barako High Chief 
+-NPC: 416 1577 5 NPC: Olaufee the Urali High Chieftess 
+-NPC: 556 1428 5 NPC: Karawyn the Sakkhra High Chieftess 
+-NPC: 2039 2842 1 NPC: Helper Paulson the Salvage Master 
+-NPC: 2023 2841 1 NPC: Gareth Emissary of the RBC 
+-NPC: 3786 1263 0 NPC: Belulah the Scorned 
+-NPC: 3786 1263 1 NPC: Belulah the Scorned 
