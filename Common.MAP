@@ -203,10 +203,6 @@
 +TOWN: 1506 622 2 Desert Outpost 
 -LIBRARY: 869 625 2 Librum 
 +MOONGATE: 271 629 4 Homare-Jima Gate 
--EXIT: 5588 632 0 Despise 
--EXIT: 5588 632 1 Despise 
--EXIT: 5825 632 0 Wrong 
--EXIT: 5825 632 1 Wrong 
 +SHRINE: 1300 633 0 Shrine of Justice 
 +SHRINE: 1300 633 1 Shrine of Justice 
 +LANDMARK: 939 637 3 Grand Arena 
@@ -263,8 +259,8 @@
 -MINERSGUILD: 2855 734 0 The Ore of Vesper 
 -MINERSGUILD: 2855 734 1 The Ore of Vesper 
 +TERRAIN: 1124 739 2 Swamp 
--PIN: 2891 744 0 The Musician's Hall 
--PIN: 2891 744 1 The Musician's Hall 
+-BARDICGUILD: 2891 744 0 The Musician's Hall 
+-BARDICGUILD: 2891 744 1 The Musician's Hall 
 -EXIT: 84 750 2 Volcanic Lair 
 +MOONGATE: 771 754 0 Yew Moongate 
 +MOONGATE: 771 754 1 Yew Moongate 
@@ -1296,8 +1292,16 @@
 -CARPENTER: 1435 3820 1 From Tree to Yew 
 -BRASS: 1392 3824 0 Farmer's Market 
 -BRASS: 1392 3824 1 Farmer's Market 
-+TELEPORTER: 1414 3829 0 Teleporters 
-+TELEPORTER: 1414 3829 1 Teleporters 
+-POINT: 1414 3828 0 Return Point from North & South Islands 
+-POINT: 1414 3828 1 Return Point from North & South Islands 
++TELEPORTER: 1409 3824 0 To North Jhelom Island 
++TELEPORTER: 1409 3824 1 To North Jhelom Island 
++TELEPORTER: 1142 3621 0 To Town Centre 
++TELEPORTER: 1142 3621 1 To Town Centre 
++TELEPORTER: 1419 3832 0 To South Jhelom Island 
++TELEPORTER: 1419 3832 1 To South Jhelom Island 
++TELEPORTER: 1406 3996 0 To Town Centre 
++TELEPORTER: 1406 3996 1 To Town Centre 
 +BODYOFWATER: 5457 3831 0 The Ru 
 +BODYOFWATER: 5457 3831 1 The Ru 
 -ARMS: 1456 3850 0 Jhelom Armory 
@@ -1402,6 +1406,7 @@
 +DUNGEON: 728 1593 5 Cave of the Great Ape 
 +SCENIC: 484 1607 5 Ruins 
 +SCENIC: 447 1617 5 Urali Swamp 
+-TELEPORTER: 492 1613 5 To Kotl City
 -POINTOFINTEREST: 388 1713 5 Dragon Turtle Hatchlings 
 +SCENIC: 965 1715 5 Volcano 
 +TOWN: 662 1729 5 Barako Tribe 
@@ -1465,6 +1470,7 @@
 -SCENIC: 143 158 5 Hidden Chamber 
 +MOONGATE: 363 158 5 Stygian Dragon Entrance 
 +POINT: 925 159 4 Tunnel 
++POINT: 2152 550 3 Tunnel
 +POINT: 6578 160 0 To Gypsy Camp 
 +POINT: 6578 160 1 To Gypsy Camp 
 +POINT: 1554 172 3 Secret Location 2 
@@ -1650,11 +1656,7 @@
 -TELEPORTER: 5704 625 0 To Centre of Room 
 -TELEPORTER: 5704 625 1 To Centre of Room 
 +POINT: 815 627 5 Flight Path 
--STAIRSUP: 5573 629 0 Up 
--STAIRSUP: 5573 629 1 Up 
 +TERRAIN: 167 630 4 Field of Echoes 
--STAIRSDOWN: 5572 633 0 Down 
--STAIRSDOWN: 5572 633 1 Down 
 +RUINS: 892 646 4 Owen 
 +LANDMARK: 1084 651 2 Blackthorn's Castle 
 +POINT: 686 658 5 Flight Path 
@@ -2288,4 +2290,3 @@
 +POINT: 4671 1135 1 From Town Centre 
 +TELEPORTER: 4663 1134 0 To Town Centre 
 +TELEPORTER: 4663 1134 1 To Town Centre 
-
